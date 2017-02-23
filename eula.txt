@@ -1,0 +1,26 @@
+Disclaimer:
+
+Use this software at your own risk.
+
+Caution: Exit ALL SteamVR apps. Before proceeding, close ALL of the following:
+
+* Steam
+
+* SteamVR
+
+* Unity Games
+
+* Unity Editor
+
+* Unreal Games
+
+* Unreal Launcher
+
+* Unreal Editor
+
+
+Caution: Setup will override your `steamvr.vrsettings` config. If this is not intended, exit now.
+
+
+
+Kevin Godby will add more...

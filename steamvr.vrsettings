@@ -1,0 +1,16 @@
+{
+   "dashboard" : {
+      "enableDashboard" : false
+   },
+   "driver_osvr" : {
+      "scanoutOrigin" : "lower-right",
+      "verbose" : true
+   },
+   "perfcheck" : {
+      "warnOnlyOnce" : true
+   },
+   "steamvr" : {
+      "forceReprojection" : true,
+      "mirrorViewGeometry" : "0 0 1080 600"
+   }
+}
